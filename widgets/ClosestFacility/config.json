@@ -18,7 +18,7 @@
             "uniqueValueInfos": [
                 {
                     "value" : 1, "type" : "esriSLS", "style" : "esriSLSSolid",
-                    "sym" : {"color" : [26,150,65,255], "width" : 2}
+                    "sym" : {"color" : [26,150,65,255], "width" : 5}
                 },
                 {
                     "value" : 2, "type" : "esriSLS", "style" : "esriSLSSolid",
@@ -26,11 +26,11 @@
                 },
                 {
                     "value" : 3, "type" : "esriSLS", "style" : "esriSLSSolid",
-                    "sym" : {"color" : [66,174,277,455], "width" : 7}
+                    "sym" : {"color" : [66,174,277,455], "width" : 5}
                 },
                 {
                     "value" : 4, "type" : "esriSLS", "style" : "esriSLSSolid",
-                    "sym" : {"color" : [215,125,228,255], "width" : 9}
+                    "sym" : {"color" : [215,125,228,255], "width" : 5}
                 }
             ]
         },
